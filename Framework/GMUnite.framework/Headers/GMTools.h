@@ -45,7 +45,7 @@ typedef NS_ENUM(NSInteger, GamaLanguageType) {
 /// 获取手机系统语言
 +(GamaLanguageType)getDeviceLanguage;
 
-/// 检查网络是否可用
+/// 检查网络是否可用 0:没有网络 1:WWAN  2:WIFI
 +(int)getNetworkStatus;
 
 /// 振动

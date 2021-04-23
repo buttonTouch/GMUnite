@@ -10,11 +10,15 @@
 		</data>
 		<key>Headers/GMTools.h</key>
 		<data>
-		SYsP/+fPatBHpx3uKth0e5VhTNk=
+		FEetcVk5hWf9G7rWIo7Y7LUC71E=
 		</data>
 		<key>Headers/GMUnite.h</key>
 		<data>
 		wx62EAsCpAYJOmqMLquJOipFNYE=
+		</data>
+		<key>Headers/GamaRateView.h</key>
+		<data>
+		1IXUhRX74HP/8aHzDJpI0pxnd3s=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -42,11 +46,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SYsP/+fPatBHpx3uKth0e5VhTNk=
+			FEetcVk5hWf9G7rWIo7Y7LUC71E=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZffwN7ElOLypybwZ6w8jfWAZKYfh2dXVE6tQtb2FBFg=
+			peVHrEhXen54pGAqLv0tdDXJKC02NHdR2kKIQ4pB/wA=
 			</data>
 		</dict>
 		<key>Headers/GMUnite.h</key>
@@ -58,6 +62,17 @@
 			<key>hash2</key>
 			<data>
 			HJoJLVf9TFFzQvc1sKR6a8uhRcO4r+bLUXPDIvv7E+E=
+			</data>
+		</dict>
+		<key>Headers/GamaRateView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1IXUhRX74HP/8aHzDJpI0pxnd3s=
+			</data>
+			<key>hash2</key>
+			<data>
+			DWYhzsQLnOYyggvekKCMN38KJWGChLmW2ACyzknigJA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
