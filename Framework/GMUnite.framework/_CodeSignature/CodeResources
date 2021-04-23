@@ -4,17 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/DeviceId.h</key>
-		<data>
-		khxUgegyv5CD6VM0eSXgs4ZVH7Q=
-		</data>
 		<key>Headers/GMTools.h</key>
 		<data>
-		SYsP/+fPatBHpx3uKth0e5VhTNk=
+		6TsbMdYIvDfYV5nmjakx/eEBaso=
 		</data>
 		<key>Headers/GMUnite.h</key>
 		<data>
-		wx62EAsCpAYJOmqMLquJOipFNYE=
+		z2kPbUl0ocYiMwgq+cnCHKVGsgk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -27,37 +23,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/DeviceId.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			khxUgegyv5CD6VM0eSXgs4ZVH7Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			FrMMH9rSPUbAxJG7aNnRDK3qMdwEv95bnwtNNY5pe/c=
-			</data>
-		</dict>
 		<key>Headers/GMTools.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SYsP/+fPatBHpx3uKth0e5VhTNk=
+			6TsbMdYIvDfYV5nmjakx/eEBaso=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZffwN7ElOLypybwZ6w8jfWAZKYfh2dXVE6tQtb2FBFg=
+			yoU/B+lSgS/eBgTmWfLWPhzqlamamhs6dvNLnOHvtG0=
 			</data>
 		</dict>
 		<key>Headers/GMUnite.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wx62EAsCpAYJOmqMLquJOipFNYE=
+			z2kPbUl0ocYiMwgq+cnCHKVGsgk=
 			</data>
 			<key>hash2</key>
 			<data>
-			HJoJLVf9TFFzQvc1sKR6a8uhRcO4r+bLUXPDIvv7E+E=
+			cdWDkfHqL9mlF0nacGnghY4vF3Ga59Rp6j20f2oA2m8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
