@@ -1,17 +1,15 @@
 //
-//  GamaTools.h
-//  GamaGame
+//  GMTools.h
+//  GMUnite
 //
-//  Created by Mgs on 2021/4/13.
+//  Created by Mgs on 2021/4/23.
 //
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import <AudioToolbox/AudioToolbox.h>
-
 #import "DeviceId.h"
 NS_ASSUME_NONNULL_BEGIN
-
 typedef NS_ENUM(NSInteger, GamaLanguageType) {
     Gama_SimpleChinese,//简体中文
     Gama_TraditionalChinese,//繁体中文
@@ -24,8 +22,7 @@ typedef NS_ENUM(NSInteger, GamaLanguageType) {
     Gama_Russian,//俄语
     Gama_Spanish//西班牙语
 };
-
-@interface GamaTools : NSObject
+@interface GMTools : NSObject
 
 //绑定App 的window 和根控制器
 +(void)bindWindow:(UIWindow *)window rootViewControl:(UIViewController *)vc;

@@ -14,7 +14,7 @@ FOUNDATION_EXPORT double GMUniteVersionNumber;
 FOUNDATION_EXPORT const unsigned char GMUniteVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <GMUnite/PublicHeader.h>
-#import <GMUnite/GamaTools.h>
+#import <GMUnite/GMTools.h>
 #import <GMUnite/DeviceId.h>
 
 
