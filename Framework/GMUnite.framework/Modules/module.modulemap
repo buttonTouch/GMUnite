@@ -1,0 +1,6 @@
+framework module GMUnite {
+  umbrella header "GMUnite.h"
+
+  export *
+  module * { export * }
+}
