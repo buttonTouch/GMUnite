@@ -131,8 +131,8 @@ Pod::Spec.new do |spec|
   #  you can include multiple dependencies to ensure it works.
 
   spec.requires_arc = true
-
+  spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7 arm64'}
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-    #spec.dependency "Reachability"
-    #spec.dependency "Masonry"
+  #spec.dependency "Reachability"
+  #spec.dependency "Masonry"
 end
